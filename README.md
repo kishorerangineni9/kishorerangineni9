@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kishorerangineni9
-- 👀 I’m interested in ...web developement
+- 👀 I’m interested in ...web developement and Devops
 - 🌱 I’m currently learning ...front end technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
