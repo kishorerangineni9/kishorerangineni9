@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @kishorerangineni9
-- 👀 I’m interested in ...Cloud  and Devops
-- 🌱 I’m Working as a  Devops Engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋 I'm Kishore
+
+🚀 DevOps Engineer | Cloud & Automation Specialist
+
+## 🛠️ Tech Stack
+- AWS, Azure
+- Kubernetes, Docker
+- Terraform
+- GitHub Actions
+- Jenkins
+- Linux
+
+## 🔥 What I Do
+- Build CI/CD pipelines
+- Automate cloud infrastructure
+- Optimize deployments
+- Improve system reliability
+
+ DevOps Engineer with experience in designing scalable cloud infrastructure on AWS & Azure.
+Specialized in CI/CD pipelines, Kubernetes, Terraform, and Infrastructure as Code.
+Passionate about automation, reliability, and performance optimization.
+
+
+:india:
+
+📍 India
+
+
 
 <!---
 kishorerangineni9/kishorerangineni9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
