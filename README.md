@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishorerangineni9
-- 👀 I’m interested in ...web developement and Devops
-- 🌱 I’m currently learning ...front end technologies
+- 👀 I’m interested in ...Cloud  and Devops
+- 🌱 I’m Working as a  Devops Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
